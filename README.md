@@ -28,6 +28,4 @@ A useful commit message is short, clear, and describes the changes made in that 
 
 ### 3. What remains unclear about your setup?
 
-The basic Git and GitHub workflow is clear, but I still need more practice with managing branches, resolving merge conflicts, and working with multiple versions of a project.
-
-BY MUHAMMAD RAIMA
+I still need more practice with the basic Git setup and making commits. I want to get more comfortable with using the main Git commands and keeping track of my changes.
